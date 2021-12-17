@@ -1,4 +1,4 @@
-# Summer COurse - Mission R&D 2019 
+# Summer Course - Mission R&D 2019 
 
 [About MRND](http://missionrnd.com/about-us/)
 
