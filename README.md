@@ -28,7 +28,7 @@ A **rat** starts from source and has to reach the destination. The **rat** can *
 Implementing sorting methods for large scale data.
 
 ### Day 6 - FileSystem
- Implementing a small scale FileSystem application with CLI, which store the data in a fixed number of text files.Adding Features and Functionality to previous application like storing in a [hdd file](https://fileinfo.com/extension/hdd) instead of text files.
+ Implementing a small scale FileSystem application with CLI to perform CRUD operations on files, which store the data in blocks in a [hdd file](https://fileinfo.com/extension/hdd).
 
 ### Day 7 - Compiler
 Implementing a small scale Compiler application with CLI. It is similar to assembly language with commands like `DATA`, `MOVE`, `IF`.
